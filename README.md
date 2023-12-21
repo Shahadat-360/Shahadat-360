@@ -2,7 +2,7 @@
 <h3 align="center">A Competitive Programmer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Shahadat-360&label=Profile%20views&color=0e75b6&style=flat" alt="Shahadat-360" /> </p>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/103915287/189341410-31dfb015-df41-4059-9365-34f13aa62b5a.jpg">
+<img align="right" alt="Coding" width="350" src="https://github.com/Shahadat-360/Shahadat-360/assets/154492336/a71bf9b5-db3d-4666-8ff2-39be6a794b5c.jpg">
 
 ![IMG_0053~2](https://github.com/Shahadat-360/Shahadat-360/assets/154492336/a71bf9b5-db3d-4666-8ff2-39be6a794b5c)
 
