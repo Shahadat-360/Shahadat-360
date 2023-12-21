@@ -4,8 +4,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Shahadat-360&label=Profile%20views&color=0e75b6&style=flat" alt="Shahadat-360" /> </p>
 <img align="right" alt="Coding" width="350" src="https://github.com/Shahadat-360/Shahadat-360/assets/154492336/a71bf9b5-db3d-4666-8ff2-39be6a794b5c.jpg">
 
-![IMG_0053~2](https://github.com/Shahadat-360/Shahadat-360/assets/154492336/a71bf9b5-db3d-4666-8ff2-39be6a794b5c)
-
 - 📫 How to reach me **1337.Shahadat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
