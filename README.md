@@ -1,7 +1,60 @@
-- 👋 Hi, I’m MD.Shahadat Hossain Bhuian
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning .NET Framework
-- 📫 How to reach me 1333.shahadat@gmail.com
+# Hi there! 👋
+
+I am a **.NET Developer** with a passion for creating efficient and scalable web applications. I am currently exploring **ASP.NET Core MVC** to enhance my skills and deepen my understanding of modern web development frameworks. Here's a bit about my journey and expertise:
+
+---
+
+## 🔧 Technologies & Skills
+
+### Core Expertise:
+- **ASP.NET Core Web API**: Experienced in building RESTful APIs with clean and maintainable architecture.
+- **Entity Framework Core**: Proficient in managing databases, migrations, and ORM integration.
+
+### Currently Learning:
+- **ASP.NET Core MVC**: Diving into MVC patterns to master server-side rendering and web app design.
+
+### Additional Knowledge:
+- **Django**: Basic understanding of Python's powerful web framework.
+- **SQL Server**: Skilled in designing and managing relational databases.
+
+### Tools:
+- Visual Studio, Visual Studio Code
+- Git and GitHub
+- Postman, Swagger (API testing/documentation)
+
+---
+
+## 💼 Projects
+
+### **ContosoPizza**
+- A pizza management API built with **ASP.NET Core Controller-based API**.
+- Features: CRUD operations, JWT authentication, pagination, and database migrations.
+- Tech stack: ASP.NET Core, Entity Framework Core, SQL Server.
+
+### **GameStore**
+- A CRUD application using **ASP.NET Core Minimal API**.
+- Features: Modular architecture, seamless integration with SQL Server.
+
+---
+
+## 🌱 What I'm Working On
+- Building real-world projects to strengthen my understanding of ASP.NET Core MVC.
+- Exploring modern front-end frameworks to complement my back-end expertise.
+
+---
+
+## 📈 Competitive Programming
+- Solved 1100+ problems across platforms like Codeforces, CodeChef, and AtCoder.
+- Participated twice in ICPC Preliminary Rounds.
+
+---
+
+## 📫 Let's Connect!
+- **Email**: 1333.shahadat@gmail.com
+
+Feel free to explore my repositories and reach out for collaboration or discussions!
+
+
 
 <!---
 Shahadat-360/Shahadat-360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
