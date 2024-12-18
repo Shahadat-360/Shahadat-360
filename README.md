@@ -18,8 +18,7 @@ I am a **.NET Developer** with a passion for creating efficient and scalable web
 - **SQL Server**: Skilled in designing and managing relational databases.
 
 ### Tools:
-- Visual Studio, Visual Studio Code
-- Git and GitHub
+- Git, GitHub and GitFlow
 - Postman, Swagger (API testing/documentation)
 
 ---
