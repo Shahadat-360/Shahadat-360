@@ -24,19 +24,6 @@ I am a **.NET Developer** with a passion for creating efficient and scalable web
 
 ---
 
-## 💼 Projects
-
-### **ContosoPizza**
-- A pizza management API built with **ASP.NET Core Controller-based API**.
-- Features: CRUD operations, JWT authentication, pagination, and database migrations.
-- Tech stack: ASP.NET Core, Entity Framework Core, SQL Server.
-
-### **GameStore**
-- A CRUD application using **ASP.NET Core Minimal API**.
-- Features: Modular architecture, seamless integration with SQL Server.
-
----
-
 ## 🌱 What I'm Working On
 - Building real-world projects to strengthen my understanding of ASP.NET Core MVC.
 - Exploring modern front-end frameworks to complement my back-end expertise.
